@@ -2,7 +2,6 @@
 from typing import (  # type: ignore
     Any,
     Dict,
-    Optional,
     Type,
     Union,
     _TypedDictMeta as TypedDictMeta,
